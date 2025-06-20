@@ -13,12 +13,8 @@ A = [
 ];
 
 figure;
-% 用 imagesc 绘图
 imagesc(A);
-% 定义 0→白，1→黑 的 colormap
 colormap([1 1 1;   % 0 对应白
           0 0 0]); % 1 对应黑
-% 保持长宽比一致，去掉坐标轴
 axis equal tight off
-% 把第 1 行放到图的最上面（可选，看你习惯）
 set(gca,'YDir','normal')
