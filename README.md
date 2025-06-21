@@ -5,6 +5,10 @@ Figures
 -----------------
 The each figure in the thesis can be found in the "Figures" directory. The majority of the figures were drawn in Keynote and converted to PDF format, while some were generated using Python code.
 
+Published Works
+-----------------
+to be continued...
+
 Examples 
 -----------------
 In Section 5.2.5.3 of my PhD thesis, I calculated the Type C/D descriptors for each particle sample and constructed a feature matrix by concatenation, followed by PCA analysis, with the results shown in the following figure.
