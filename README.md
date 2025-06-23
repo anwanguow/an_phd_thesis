@@ -5,9 +5,13 @@ Figures
 -----------------
 The each figure in the thesis can be found in the "Figures" directory. The majority of the figures were drawn in Keynote and converted to PDF format, while some were generated using Python code.
 
-Published Works
+Published Works in my Thesis
 -----------------
-to be continued...
+Chapter 4: https://github.com/anwanguow/graph_phase_transition;
+
+Chapter 5: https://github.com/anwanguow/GP_structural;
+
+Chapter 6: https://github.com/anwanguow/PH_structural.
 
 Examples 
 -----------------
