@@ -15,6 +15,16 @@ Chapter 6 ([PhysRevE.111.045306](https://journals.aps.org/pre/abstract/10.1103/P
 
 Core Algorithms Related to My Thesis
 -----------------
+### Cut Distance
+
+To be continued...
+
+### Modified Voronoi Method
+
+To be continued...
+
+### Persistent Homology
+
 To be continued...
 
 Example in Chapter 5
