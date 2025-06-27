@@ -5,7 +5,7 @@ Figures
 -----------------
 The each figure in the thesis can be found in the "Figures" directory. The majority of the figures were drawn in Keynote and converted to PDF format, while some were generated using Python code.
 
-Published Works in my Thesis
+Publication Related to this Thesis
 -----------------
 Chapter 4 ([PhysRevB.111.054116](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116)): https://github.com/anwanguow/graph_phase_transition;
 
@@ -13,7 +13,7 @@ Chapter 5 ([PhysRevE.111.064302](https://journals.aps.org/pre/abstract/10.1103/P
 
 Chapter 6 ([PhysRevE.111.045306](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045306)): https://github.com/anwanguow/PH_structural.
 
-Core Algorithms Related to My Thesis
+Core Algorithms in this Thesis
 -----------------
 ### Cut Distance
 
