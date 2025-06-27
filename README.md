@@ -17,7 +17,7 @@ Core Algorithms Related to My Thesis
 -----------------
 To be continued...
 
-Examples
+Example in Chapter 5
 -----------------
 In Section 5.2.5.3 of my PhD thesis, I calculated the Type C/D descriptors for each particle sample and constructed a feature matrix by concatenation, followed by PCA analysis, with the results shown in the following figure.
 
