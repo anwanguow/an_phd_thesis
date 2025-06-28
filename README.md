@@ -29,6 +29,8 @@ To be continued...
 
 ### Persistent Homology
 
+#### PH Descriptors
+
 To be continued...
 
 Example in Chapter 5
