@@ -13,7 +13,11 @@ Chapter 5 ([PhysRevE.111.064302](https://journals.aps.org/pre/abstract/10.1103/P
 
 Chapter 6 ([PhysRevE.111.045306](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045306)): https://github.com/anwanguow/PH_structural.
 
-Core Algorithms in this Thesis
+Dataset Generation
+-----------------
+To be continued...
+
+Core Algorithms
 -----------------
 ### Cut Distance
 
